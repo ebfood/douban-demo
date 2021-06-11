@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "榜单",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "list-category": "/components/list-category/list-category"
+  }
+}

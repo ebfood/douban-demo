@@ -1,0 +1,1 @@
+<view><view data-ref="statusbar" class="status_bar vue-ref"></view><view><uni-nav-bar vue-id="40153f02-1" left-icon="back" left-text="返回" title="电影详情" backgroundColor="#42bd56" color="#fff" bind:__l="__l"></uni-nav-bar></view></view>

@@ -1,0 +1,9 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "top-zone": "/components/top-zone/top-zone",
+    "detail-board": "/components/detail-board/detail-board",
+    "detail-description": "/components/detail-description/detail-description",
+    "comment": "/components/comment/comment"
+  }
+}

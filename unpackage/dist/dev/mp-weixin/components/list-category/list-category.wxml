@@ -1,0 +1,1 @@
+<view class="list-category"><view class="cover"></view><view class="text"><view class="top"><block wx:for="{{tops}}" wx:for-item="item" wx:for-index="index" wx:key="title"><view>{{index+1+'. '+item.title}}<text>{{item.score+"分"}}</text></view></block></view></view></view>
